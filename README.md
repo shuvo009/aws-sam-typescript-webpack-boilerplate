@@ -1,5 +1,5 @@
 # AWS SAM Typescript Webpack Boilerplate
-VS Code, AWS toolkit and SAM template is a great way to develop AWS lambda functions. But unfortunately AWS tookit does not support Typescript yet. This boilerplate let you create AWS lambda using Typescript with Debugging Support.
+VS Code, AWS toolkit and SAM template is a great way to develop AWS lambda functions. But unfortunately AWS toolkit does not support Typescript yet. This boilerplate let you create AWS lambda using Typescript with Debugging Support.
 
 # How to Run:
 1. Download VS Code https://code.visualstudio.com/download
