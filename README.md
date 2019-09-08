@@ -8,9 +8,9 @@ VS Code, AWS toolkit and SAM template is a great way to develop AWS lambda funct
 4. Install the AWS CLI https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install-windows.html
 5. Install Docker.https://docs.docker.com/docker-for-windows/install/
 6.  Install the AWS SAM CLI https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install-windows.html
-7. Open command promit from **aws-sam-typescript-webpack-boilerplate** directory 
+7. Open command prompt from **aws-sam-typescript-webpack-boilerplate** directory 
 8. run **npm run-script watch**
-9. Open another command promit and run **sam local invoke HelloWoldFunc -e src/helloWorld/event.json**
+9. Open another command prompt and run **sam local invoke HelloWoldFunc -e src/helloWorld/event.json**
 10. Enjoy!!
 
 # How to Debug :
