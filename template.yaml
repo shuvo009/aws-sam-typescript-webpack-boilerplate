@@ -1,0 +1,18 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  aws sam typescript webpack boilerplate
+
+Globals:
+  Function:
+    Runtime: nodejs8.10
+    Timeout: 180
+    Tracing: Active
+
+Resources:
+  HelloWoldFunc:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: build/helloWorld
+      Handler: index.handler
+      Runtime: nodejs8.10
