@@ -21,7 +21,7 @@ VS Code, AWS toolkit and SAM template is a great way to develop AWS lambda funct
 5. hit **Debug on VS Code or Press F5**
 6. Wow breakpoint hited!!
 
-# available Commands:
+# Available Commands:
 1. npm run-script test
 2. npm run-script watch
 3. npm run-script build
